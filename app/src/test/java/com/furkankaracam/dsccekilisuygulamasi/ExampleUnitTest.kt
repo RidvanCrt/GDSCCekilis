@@ -1,4 +1,4 @@
-package com.furkankaracam.dsccekilisuygulamasi
+package com.ridvancarti.dsccekilisuygulamasi
 
 import org.junit.Test
 
